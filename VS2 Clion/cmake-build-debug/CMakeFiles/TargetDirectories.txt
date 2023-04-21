@@ -1,0 +1,3 @@
+C:/Users/Usuario/Documentos/Proyectos/C++/VS2 Clion/cmake-build-debug/CMakeFiles/VS2_Clion.dir
+C:/Users/Usuario/Documentos/Proyectos/C++/VS2 Clion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Usuario/Documentos/Proyectos/C++/VS2 Clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
